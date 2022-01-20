@@ -34,4 +34,4 @@ militaryHour = parseInt(s.substring(0,2),10)+12
 return militaryHour + (s.substring(2,8))
 
 }
-timeconversion('01:01:00AM')
+
